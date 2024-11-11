@@ -32,6 +32,7 @@ const App = () => (
 		Need to migrade it from ./components/App.js (original structure)
 	*/
 </div>
+);
 
 const rootElement = document.getElementById("app")
 if (!rootElement) throw new Error("Failed to find the root element")
